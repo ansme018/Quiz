@@ -1,0 +1,121 @@
+body {
+	background: url(https://images.unsplash.com/photo-1443890923422-7819ed4101c0?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=a9c79afe3d7a158a876502b1cc548332) center center;
+	background-size: cover;
+  	background-repeat: no-repeat;
+  	font-family: font-family: 'Shadows Into Light', cursive;
+}
+
+h1 {
+	color: brown;
+	margin: 0 auto;
+	padding-right: auto;
+	padding-left: auto;
+	padding-top: 30px;
+	text-align: center;
+	font-size: 60px
+}
+
+
+h2 {
+	color:#f15a29;
+	margin: 0 auto;
+	padding-right: auto;
+	padding-left: auto;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	text-align: center;
+	width: 20em;
+	font-size: 30px;
+}
+
+h3 {
+	color: #DEB887;
+	margin: 0 auto;
+	padding-right: auto;
+	padding-left: auto;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	text-align: center;
+	width: 20em;
+	font-size: 30px;
+}
+
+
+#intro{
+	margin: 0 auto;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+	padding: 30px;     
+}
+#start{
+	padding:8px 20px;
+	color:#f15a29;
+	font-size:18px;
+	border-radius:40px;
+	-moz-border-radius:40px;
+	-webkit-border-radius:40px;
+	border:1px solid #095B7E
+}
+
+#transbox {
+	margin: 0 auto;
+	padding-left: auto;
+	padding-right: auto;
+  background-color: #ffffff;
+  border: 1px solid black;
+  opacity: 0.6;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  width: 25em;
+  text-align: center;
+
+}
+#question_wrapper {
+	color: black;
+	font-size: 25px;
+	margin: 0 auto;
+	padding-right: auto;
+	padding-top: 20px;
+	padding-left: auto;
+	text-align: center;
+	border-color: #f15a29;
+}
+	
+.answer {
+	margin: 0 auto;
+	padding-right: auto;
+	padding-left: auto;
+	text-align: center;
+	color:#FF6347;
+	font-size: 20px;
+}
+
+#submit {
+	padding:8px 20px;
+	color:#f15a29;
+	font-size:18px;
+	border-radius:40px;
+	-moz-border-radius:40px;
+	-webkit-border-radius:40px;
+	border:1px solid #095B7E
+}
+
+#score_holder {
+	margin: left;
+	background-color: #ffffff;
+  	border: 1px solid black;
+  	opacity: 0.6;
+  	width: 10em;
+  	text-align: left;
+  	background-image: url("../img/hiker.jpg");
+  	background-repeat: no-repeat;
+	background-size: cover;
+  	height: 15em;
+}
+
+p {
+	font-size: 20px;
+	color:#f15a29;
+	padding-left: 10px;
+}
